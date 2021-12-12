@@ -1,5 +1,14 @@
 ### Hi there 👋
-## I am Kartikey Kakaria :)
+### I am Kartikey Kakaria :)
+### I am a 13 year old programmer from Punjab,India
+
+### 🔭 I am currently working on a forum-website named qbonanza made in ajax+php(vanilla) [Qbonanza.com](https://github.com/KartikeyKakaria/Qbonanza.com). I will be glad to accept any help on the project :)
+
+### If you want to know more about the current project or future projects reach me on discord DevKK.php#3261
+### If you are looking for help for any project in plain js or php you can contact me on discord i will be glad to help
+
+### I am available between IST(6pm to 8pm)
+
 
 <!--
 **KartikeyKakaria/KartikeyKakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
