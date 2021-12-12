@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me via discord DevKK.php#3261. I am available between 6:00p.m. to 8p.m. IST (GMT 11:30a.m. to 1:30p.m.)
 - 😄 Pronouns: KK
 - ⚡ Fun fact: I Love learning about history and playing minecraft too
+
  ![My Github stats](https://github-readme-stats.vercel.app/api?username=KartikeyKakaria&count_private=true)
 
