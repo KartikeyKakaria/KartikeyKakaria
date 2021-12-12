@@ -7,7 +7,7 @@
 ### If you want to know more about the current project or future projects reach me on discord DevKK.php#3261
 ### If you are looking for help for any project in plain js or php you can contact me on discord i will be glad to help
 
-### I am available between IST(6pm to 8pm)
+### I am available between 6:00p.m. to 8p.m. IST (GMT 11:30a.m. to 1:30p.m.)
 
 
 <!--
