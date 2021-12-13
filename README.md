@@ -11,9 +11,7 @@
 
 
 
-**KartikeyKakaria/KartikeyKakaria** is a 13 year old programmer and he's crazy about space and history.
-
-Here are some ideas to get you started:
+**KartikeyKakaria** is a 13 year old programmer and he's crazy about space and history.
 
 - 🔭 I am currently working on a forum-website named qbonanza made in ajax+php(vanilla) [Qbonanza.com](https://github.com/KartikeyKakaria/Qbonanza.com). I will be glad to accept any help on the project :)
 - 🌱 I’m currently learning about linux and raspberrypi
