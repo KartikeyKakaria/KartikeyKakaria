@@ -15,7 +15,7 @@
 
 - 🔭 I am currently learning node.js and mongob. I will be glad to accept any advice on the same :)- 🌱 I’m currently learning about linux and raspberrypi
 - 👯 I’m looking to collaborate on any project made in node.js,js, or php(vanilla)
-- 🤔 I’m looking for help with my qbonanza project
+- 🤔 I’m looking for help with UX/UI designing of my [Community-forum](https://github.com/KartikeyKakaria/Community-forum) project
 - 💬 Ask me about the project and hosting details.
 - 📫 How to reach me: You can reach me via discord DevKK.php#3261. I am available between 6:00p.m. to 8p.m. IST (GMT 11:30a.m. to 1:30p.m.)
 - 😄 Pronouns: KK
