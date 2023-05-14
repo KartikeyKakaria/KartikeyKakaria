@@ -21,5 +21,6 @@
 - 😄 Pronouns: KK
 - ⚡ Fun fact: I Love learning about history and playing minecraft too
 
- ![My Github stats](https://github-readme-stats.vercel.app/api?username=KartikeyKakaria&count_private=true)
+ ![My Github stats](https://github-readme-stats.vercel.app/api?username=KartikeyKakaria&show_icons=true&theme=dark)
+ ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyKakaria&theme=dark&layout=compact)
 
