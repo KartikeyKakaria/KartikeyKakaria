@@ -14,7 +14,7 @@
 **KartikeyKakaria** is a young programmer and he's crazy about space and history.
 
 - 🔭 I am currently learning react,redux and ruby. I will be glad to accept any advice on the same :)- 🌱 I’m currently learning about linux and raspberrypi
-- 👯 I’m looking to collaborate on any project made in javascript(backend aqnd frontend), express, react and next
+- 👯 I’m looking to collaborate on any project made in javascript(backend aqnd frontend), express, react and next, I can work in vanilla php too
 - 🤔 I’m looking for help with frontend and designing of my [Sociomedia](https://github.com/KartikeyKakaria/Sociomedia-backend) project
 - 💬 Ask me about the project and hosting details.
 - 📫 How to reach me: You can reach me via discord DevKK.php#3261. I am available between 6:00p.m. to 8p.m. IST (GMT 11:30a.m. to 1:30p.m.), You can also email me:- kartikeykakaria5@gmail.com
