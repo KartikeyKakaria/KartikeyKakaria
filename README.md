@@ -24,4 +24,5 @@ Hey There!, I am **KartikeyKakaria**, A High School Student from India and I Lov
  ![My Github stats](https://github-stats-alpha.vercel.app/api?username=KartikeyKakaria&cc=023&tc=fff)<br />
  ![My Github streak](https://github-readme-streak-stats.herokuapp.com/?user=KartikeyKakaria&theme=dark&hide_border=false)<br />
  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyKakaria&theme=dark&layout=compact)
+ ![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeykakaria&show_icons=true&theme=radical)
 
